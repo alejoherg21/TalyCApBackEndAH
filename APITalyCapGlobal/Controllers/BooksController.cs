@@ -10,7 +10,7 @@ using APITalyCapGlobal.Services;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.Data.SqlClient;
 using System.Data;
-
+//cambio 4
 namespace APITalyCapGlobal.Controllers
 {
     [Authorize]
