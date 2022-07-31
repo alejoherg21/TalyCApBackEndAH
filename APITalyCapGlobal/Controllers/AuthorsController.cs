@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using APITalyCapGlobal.Entities;
 using APITalyCapGlobal.Services;
 using Microsoft.AspNetCore.Authorization;
-
+//cambio 3
 namespace APITalyCapGlobal.Controllers
 {
     [Authorize]
