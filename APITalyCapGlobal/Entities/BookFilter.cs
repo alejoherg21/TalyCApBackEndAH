@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+//cambio 7
 namespace APITalyCapGlobal.Entities
 {
     public class BookFilter
