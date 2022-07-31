@@ -13,7 +13,7 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
 using System.Security.Claims;
-
+//cambio 4a
 namespace APITalyCapGlobal.Controllers
 {
     [Authorize]
