@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+//cambio 9
 namespace APITalyCapGlobal.Entities
 {
     public class Users
