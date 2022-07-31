@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authorization;
-
+//cambio 3
 namespace APITalyCapGlobal.Controllers
 {
     [Authorize]
